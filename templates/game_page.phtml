@@ -1,0 +1,14 @@
+<script src="../public/assets/scripts.js" defer></script>
+
+<h1>Bee Game</h1>
+
+<h2>Abeilles restantes</h2>
+<ul>
+    <?php foreach ($remainingBees as $beeType => $bee): ?>
+        <li><?= $beeType ?> - Points de vie : <span id="<?= $beeType ?>-hitPoints"><?= $bee['hitPoints'] ?></span></li>
+    <?php endforeach; ?>
+</ul>
+
+<button id="attackButton">Attaquer une abeille</button>
+
+

@@ -1,0 +1,60 @@
+{
+    "remainingBees": {
+        "Queen": {
+            "hitPoints": 100,
+            "isDown": false
+        },
+        "Worker1": {
+            "hitPoints": 50,
+            "isDown": false
+        },
+        "Worker2": {
+            "hitPoints": 50,
+            "isDown": false
+        },
+        "Worker3": {
+            "hitPoints": 50,
+            "isDown": false
+        },
+        "Worker4": {
+            "hitPoints": 50,
+            "isDown": false
+        },
+        "Worker5": {
+            "hitPoints": 50,
+            "isDown": false
+        },
+        "Scout1": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout2": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout3": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout4": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout5": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout6": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout7": {
+            "hitPoints": 30,
+            "isDown": false
+        },
+        "Scout8": {
+            "hitPoints": 30,
+            "isDown": false
+        }
+    }
+}
